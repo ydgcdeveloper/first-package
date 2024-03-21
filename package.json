@@ -1,5 +1,5 @@
 {
-  "name": "first-package",
+  "name": "first-package-ydgcdeveloper",
   "version": "0.0.1",
   "description": "Is my first npm package",
   "main": "./dist/index.js",
